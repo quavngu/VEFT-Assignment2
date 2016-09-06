@@ -1,5 +1,5 @@
---temp-output:C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\obj\Debug\netcoreapp1.0\
---out:C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\bin\Debug\netcoreapp1.0\Services.dll
+--temp-output:C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\obj\Debug\netcoreapp1.0\
+--out:C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\bin\Debug\netcoreapp1.0\Services.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -115,8 +115,8 @@
 --reference:C:\Users\quang\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\quang\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\quang\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---reference:C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Models\bin\Debug\netstandard1.6\Models.dll
-C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\AppDataContext.cs
-C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\CoursesService.cs
-C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\ICoursesService.cs
-C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\Entities\Course.cs
+--reference:C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Models\bin\Debug\netstandard1.6\Models.dll
+C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\AppDataContext.cs
+C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\CoursesService.cs
+C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\ICoursesService.cs
+C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\Entities\Course.cs

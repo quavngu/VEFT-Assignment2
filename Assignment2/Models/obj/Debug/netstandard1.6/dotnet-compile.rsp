@@ -1,5 +1,5 @@
---temp-output:C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Models\obj\Debug\netstandard1.6\
---out:C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Models\bin\Debug\netstandard1.6\Models.dll
+--temp-output:C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Models\obj\Debug\netstandard1.6\
+--out:C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Models\bin\Debug\netstandard1.6\Models.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -56,4 +56,4 @@
 --reference:C:\Users\quang\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\quang\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\quang\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Models\CourseLiteDTO.cs
+C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Models\CourseLiteDTO.cs

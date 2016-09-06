@@ -16,13 +16,25 @@ namespace Assignment2.Services
 
         public List<CourseLiteDTO> GetCoursesBySemester(string semester)
         {
-            return (from x in _db.Courses
+            var courses = _db.Courses
+                .Where(x => x.Semester == semester)
+                .OrderBy(x => x.Name)
+                .Select(x => new CourseLiteDTO{
+                    ID = x.ID,
+                    Name = x.Name,
+                    Semester = x.Semester
+                })
+                .ToList();
+
+            return courses;
+
+            /*return (from x in _db.Courses
                     select new CourseLiteDTO 
                     {
                         ID = x.ID,
                         Name = x.Name,
                         Semester = x.Semester
-                    }).ToList();
+                    }).ToList();*/
         }
     }
 }

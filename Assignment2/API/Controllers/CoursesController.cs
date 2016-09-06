@@ -19,18 +19,16 @@ namespace Assignment2.API.Controllers
         }
 
         [HttpGet]
-        public List<CourseLiteDTO> GetCoursesOnSemester(string semester = null) 
+        public List<CourseLiteDTO> GetCoursesOnSemester(string semester) 
         {
-            return _service.GetCoursesBySemester(semester);
-            /*return new List<CourseLiteDTO>
+            if(semester == null) 
             {
-                new CourseLiteDTO
-                {
-                    ID = 1,
-                    Name = "Web Services",
-                    Semester = "20163"
-                }
-            };*/
+                return _service.GetCoursesBySemester("20163");
+            }
+            else 
+            {
+                return _service.GetCoursesBySemester(semester);
+            }
         }
     }
 }

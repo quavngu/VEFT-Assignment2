@@ -8,8 +8,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\bin\Debug\netcoreapp1.0\Services.dll"
+"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\bin\Debug\netcoreapp1.0\Services.dll"
 -r:"C:\Users\quang\.nuget\packages\Microsoft.AspNetCore.Hosting.Abstractions\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Hosting.Abstractions.dll"
 -r:"C:\Users\quang\.nuget\packages\Microsoft.AspNetCore.Hosting.Server.Abstractions\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll"
 -r:"C:\Users\quang\.nuget\packages\Microsoft.AspNetCore.Http.Abstractions\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Http.Abstractions.dll"
@@ -112,8 +112,8 @@
 -r:"C:\Users\quang\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\quang\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\quang\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--r:"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Models\bin\Debug\netstandard1.6\Models.dll"
-"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\AppDataContext.cs"
-"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\CoursesService.cs"
-"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\ICoursesService.cs"
-"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\Assignment2\Services\Entities\Course.cs"
+-r:"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Models\bin\Debug\netstandard1.6\Models.dll"
+"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\AppDataContext.cs"
+"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\CoursesService.cs"
+"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\ICoursesService.cs"
+"C:\Users\quang\Desktop\Skólinn\Vefþjónustur\VEFT-Assignment2\Assignment2\Services\Entities\Course.cs"
